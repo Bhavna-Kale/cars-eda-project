@@ -34,7 +34,7 @@ The following technologies and libraries were used in this project:
 | **Data Files** | `Cars (1).csv`, `Cars_cleaned.csv` |
 
 ## 📁 Repository Structure
-.
+
 ├── app.py                     # Main Streamlit application file
 ├── Cars (1).csv               # Original raw data
 ├── Cars_cleaned.csv           # Cleaned dataset (ready for analysis)
@@ -87,14 +87,12 @@ The following technologies and libraries were used in this project:
 
 ## 📁 Repository Structure
 
-.
-├── app.py                     # Main Streamlit application file
-├── Cars (1).csv               # Original raw data
-├── Cars_cleaned.csv           # Cleaned dataset (ready for analysis)
-├── cars.jpg                   # Image asset for the Streamlit app
-├── README.md                  # Project overview (You are here)
-└── requirements.txt           # Python dependency list
-
+* **`app.py`**: Main Streamlit application file.
+* **`Cars (1).csv`**: Original raw dataset.
+* **`Cars_cleaned.csv`**: Cleaned and processed dataset (ready for analysis).
+* **`cars.jpg`**: Image asset used within the Streamlit application.
+* **`README.md`**: Project overview (You are here).
+* **`requirements.txt`**: List of all necessary Python dependencies.
 
 ## ⚙️ Getting Started
 
